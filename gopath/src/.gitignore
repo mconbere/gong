@@ -1,0 +1,3 @@
+# Only allow commits to this project (and the .gitignore file).
+/*
+!.gitignore

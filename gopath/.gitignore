@@ -1,0 +1,3 @@
+# Prevent go build artifacts from being checked in.
+bin/
+pkg/
